@@ -1,0 +1,28 @@
+---done1. Combat system %%%random
+---done4. every round: first stuff ->>>>> than w,a,s,d -> new round
+---done5. almanach strength  - more dmg..
+---done6. city two find and bring quests in the city
+---done8. city quest kill bandits
+---done9.  -> savegame
+---done10. city 1 x weapon merchant
+---done11. city 1 x misc merchant
+---done12. display eq -> always
+---done13. Write tutorial
+---done14. Remove capacity or not??????
+---done15. the rest of talks
+---done16. quest giant
+---done17. possibility to end game + load when dead
+---done18. change map display
+---done19. Key open gate + fight + end
+---done20. Print items in columns
+---done21. map legend
+---done22. Sleep in the beginning
+---done23. Display multiple items on the ground
+---done24. inn ->add minimum gold player need to have
+---done25. monk -> when takes sword -> it can be deafualt -> make other deafult automatically
+---done26. end-game function
+---done27. sell/buy by index not name
+---done28. eat/drink via index
+---done29. spawn wolf in Moving_Engine_Spawn
+30. new quest/talk system
+31. journal/quests info system
